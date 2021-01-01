@@ -49,4 +49,4 @@ Engin tarafından bazı ASP.NET API’lerini sayfalarınızı HTML’e çevirmek
 
 **7) Response:** HTTP üzerinden View kullanıcıya gösterilir.
 
-[zz](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbarisakbas.com.tr%2Fnet-core%2Fblog%2F30-asp-net-mvc-nedir-ne-ise-yarar.html&psig=AOvVaw0aYV6VdQ8LeYC_8wZ6aPK3&ust=1609625280684000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOD85c3f--0CFQAAAAAdAAAAABAD)
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbarisakbas.com.tr%2Fnet-core%2Fblog%2F30-asp-net-mvc-nedir-ne-ise-yarar.html&psig=AOvVaw0aYV6VdQ8LeYC_8wZ6aPK3&ust=1609625280684000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOD85c3f--0CFQAAAAAdAAAAABAD)
